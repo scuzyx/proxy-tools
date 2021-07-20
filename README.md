@@ -3,8 +3,8 @@ PC:
   -
     Windows:
     -
-    v2ryN:
-    Shadowsocks:
+      v2ryN:
+      Shadowsocks:
   -
     Linux: Shadowsocks
   -
