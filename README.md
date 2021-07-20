@@ -1,7 +1,11 @@
 ---
 PC:
   -
-    Windows:vvv
+    Windows:
+    -
+      v2rayN:
+      Shadowsocks:
+      ShadowsocksR
   -
     Linux: Shadowsocks
   -
