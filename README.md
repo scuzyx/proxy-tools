@@ -1,7 +1,7 @@
 ---
 PC:
   -
-    name
+    name:
     id
   -
     name: 罗海入
