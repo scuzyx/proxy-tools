@@ -1,7 +1,7 @@
 ---
 PC:
   --
-    Windows:  
+    Windows:vvv
   --
     Linux: Shadowsocks
   -- 
