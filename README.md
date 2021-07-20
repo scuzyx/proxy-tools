@@ -7,7 +7,7 @@ PC:
       Shadowsocks:
       ShadowsocksR:
   -
-  Linux: Shadowsocks
+    Linux: Shadowsocks
   -
     MacOS: Shadowsocks
 Android: 
