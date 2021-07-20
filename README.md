@@ -3,7 +3,7 @@ PC:
   -
     Windows:
     -
-      v2ryN:ddd
+      v2ryN:
       Shadowsocks:
       ShadowsocksR:
   -
