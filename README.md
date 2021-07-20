@@ -1,20 +1,20 @@
-----
+---
 PC:
   --
     Windows: 
       - 
-       V2rayN: 
-       Shadowsocks: 
-       ShadowsocksR: 
+        V2rayN: 
+        Shadowsocks: 
+        ShadowsocksR: 
   --
     Linux: 
-      - 
-       Shadowsocks: 
+      -
+        Shadowsocks: 
   -- 
     MacOS: 
       - 
-       Shadowsocks: 
+        Shadowsocks: 
 Android: v2rayNG  
 IOS: Shadowrocket  
-----
+---
 
