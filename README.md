@@ -7,13 +7,9 @@ PC:
         Shadowsocks: 
         ShadowsocksR: 
   --
-    Linux: 
-      -
-        Shadowsocks: 
+    Linux: Shadowsocks
   -- 
-    MacOS: 
-      - 
-        Shadowsocks: 
+    MacOS: Shadowsocks
 Android: v2rayNG  
 IOS: Shadowrocket  
 ---
