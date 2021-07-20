@@ -1,8 +1,8 @@
 ---
 PC:
   -
-    name: 
-    id: 
+    name:
+    id:
   -
     name: 罗海入
     id: 2020xxxxxx004
