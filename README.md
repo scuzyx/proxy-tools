@@ -11,7 +11,7 @@ PC:
     -
      Shadowsocks
   --
-    MacOS
+    MacOS:
     -
     Shadowsocks
 Android: v2rayNG
