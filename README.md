@@ -1,8 +1,8 @@
 ---
-organizers:
+PC:
   -
-    name: 何子恒
-    id: 2020xxxxxx058
+    name: 
+    id: 
   -
     name: 罗海入
     id: 2020xxxxxx004
